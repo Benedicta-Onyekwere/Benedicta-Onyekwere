@@ -1,9 +1,9 @@
 <img align= "center" alt="Coding" src="https://blog.bit.ai/wp-content/uploads/2018/12/Kaizen-feat.png">
 
-<h1 align="center">Hi there 👋, I am Michael</h1>
+<h1 align="center">Hi there 👋, I am Benedicta</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
 
-I am Michael from Nigeria, and I am a Cloud DevSecOps Engineer. I am wildly enthusiastic about Cloud Computing and Security.
+I am Benedicta from Nigeria, and I am a Cloud DevSecOps Engineer. I am wildly enthusiastic about Cloud Computing and Security.
 
 I really enjoy learning DevOps Configuration Management tools like Ansible.
 
@@ -12,18 +12,13 @@ In addition, I also love Containers and Container Orchestrators like Docker and 
 Furthermore, I am passionate about CI/CD Build tools like Jenkins.
 <img align= "right" alt="Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<!-- https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g -->
-<!-- <img align= "right" alt="Coding" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Mini-Project/images/giphy.gif"> -->
-
-- 🔭 I’m currently working on Deploying a Laravel Real World Web Application 
-- 🌱 I’m currently learning Containerization with Docker 
-- 👯 I’m looking to collaborate on CI/CD 
+- 🔭 I’m currently working on Deploying a Property Finder Application
+- 🌱 I’m currently learning Configuration Management with Ansible
 - 🤔 I’m looking for help with Database Setup and Configuration 
 - 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Version Control, Logging and Monitoring
-- 📫 How to reach me: michaelagbia1990@gmail.com 
-- 😄 Pronouns: Him/he 
-- ⚡ Fun fact: I am a Student of Altschool Africa and ALX
-- ⚡ Fun fact: I am also currently enrolled in the ALX-T Udacity Cloud DevOps Nanodegree Program
+- 📫 How to reach me: onyekwerebenedicta@gmail.com 
+- 😄 Pronouns: Her/She 
+- ⚡ Fun fact: I am a Student of Altschool
 
 <hr>
 <br>
