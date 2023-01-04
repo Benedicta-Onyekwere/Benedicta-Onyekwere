@@ -1,5 +1,3 @@
-<!-- <img align= "center" width="1000" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/Mini-Project/images/header.png"> -->
-
 <img align= "center" alt="Coding" src="https://blog.bit.ai/wp-content/uploads/2018/12/Kaizen-feat.png">
 
 <h1 align="center">Hi there 👋, I am Michael</h1>
@@ -12,7 +10,7 @@ I really enjoy learning DevOps Configuration Management tools like Ansible.
 In addition, I also love Containers and Container Orchestrators like Docker and Kubernetes and Infrastructure Provisioning tools like Terraform and Version Control tools in general.
 
 Furthermore, I am passionate about CI/CD Build tools like Jenkins.
-<img align= "right" alt="Coding" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g">
+<img align= "right" alt="Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <!-- https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47it4vh1auggmthhb8s05skhndo9jhpyivh1koe2yo&rid=giphy.gif&ct=g -->
 <!-- <img align= "right" alt="Coding" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Mini-Project/images/giphy.gif"> -->
