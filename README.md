@@ -1,4 +1,4 @@
-<img align= "center" alt="Coding" src="https://blog.bit.ai/wp-content/uploads/2018/12/Kaizen-feat.png">
+<img align= "center" alt="Coding" src="https://blog.bit.ai/wp-content/uploads/2022/05/How-to-Create-a-Design-Proposal-That-Will-Woo-Your-Prospects-banner.jpg">
 
 <h1 align="center">Hi there 👋, I am Benedicta</h1>
 <h3 align="center">A passionate Cloud DevSecOps Engineer. </h3>
